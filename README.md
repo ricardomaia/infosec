@@ -1,7 +1,7 @@
 # Infosec Notes
 
 
-## Tools
+# Tools
 
 ### Hybrid Analysis
 https://www.hybrid-analysis.com/
@@ -39,7 +39,13 @@ http://live.sysinternals.com/
 ### Online Compiler
 https://godbolt.org/
 
-## Training Skills
+# Training Skills
+
+https://tryhackme.com/
+
+https://www.hackthebox.eu/
+
+https://www.vulnhub.com/
 
 https://challenges.re/
 
@@ -49,7 +55,7 @@ https://www.hacker101.com/videos
 
 https://www.hackerone.com/blog/Test-your-hacking-skills-real-world-simulated-bugs
 
-## Free Security Training Resources
+# Free Security Training Resources
 
 ### Open Security Training
 http://www.opensecuritytraining.info/Training.html
@@ -65,3 +71,9 @@ https://beginners.re/
 
 ### CyberPunk
 https://cyberpunk.xyz/ice
+
+### Hacking Tutorials
+https://www.hackingtutorials.org/
+
+### HackerSploit
+https://hackersploit.org/
