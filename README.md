@@ -77,3 +77,27 @@ https://www.hackingtutorials.org/
 
 ### HackerSploit
 https://hackersploit.org/
+
+
+# Malware Repositories
+
+### theZoo
+https://github.com/ytisf/theZoo
+
+### Malware Source
+https://github.com/mwsrc
+
+### PenTestIT
+https://pentestit.com/malware-sources/
+
+### Mac Malware
+https://objective-see.com/malware.html
+
+### MalShare
+https://malshare.com/
+
+### VirusShare
+https://virusshare.com/
+
+### Malwr
+https://malwr.com/
