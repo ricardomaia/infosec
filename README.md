@@ -1,7 +1,9 @@
 # Infosec Notes
 
-
 # Tools
+
+### Autopsy
+https://www.sleuthkit.org/autopsy/
 
 ### Hybrid Analysis
 https://www.hybrid-analysis.com/
@@ -85,6 +87,9 @@ https://microcorruption.com/
 
 # Free Security Training Resources
 
+### ENISA Training Resources
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
+
 ### Open Security Training
 http://www.opensecuritytraining.info/Training.html
 
@@ -105,7 +110,6 @@ https://www.hackingtutorials.org/
 
 ### HackerSploit
 https://hackersploit.org/
-
 
 # Malware Repositories
 
@@ -129,3 +133,20 @@ https://virusshare.com/
 
 ### Malwr
 https://malwr.com/
+
+# Forensic Images and PCAPs
+
+### CFReDS Project
+https://www.cfreds.nist.gov/
+
+### Malware Traffic Analysis
+https://www.malware-traffic-analysis.net/index.html
+
+
+# Books, Mind Maps and Cheat Sheets
+
+### Sans Community Cheat Sheets
+https://digital-forensics.sans.org/community/cheat-sheets
+
+### Aman Hardikar
+https://www.amanhardikar.com/mindmaps.html
