@@ -41,19 +41,44 @@ https://godbolt.org/
 
 # Training Skills
 
+### Try Hack Me
 https://tryhackme.com/
 
+### Hack the Box
 https://www.hackthebox.eu/
 
+### VulnHub
 https://www.vulnhub.com/
 
+### Reverse Engineering challenges
 https://challenges.re/
 
+### 100Secyurity
 http://www.100security.com.br/wargame/
 
+### Hacker 101
 https://www.hacker101.com/videos
 
+### Hacker One
 https://www.hackerone.com/blog/Test-your-hacking-skills-real-world-simulated-bugs
+
+### the cryptopals crypto challenges
+https://cryptopals.com/
+
+### Hacksplaining
+https://www.hacksplaining.com/
+
+### PentestIt
+https://lab.pentestit.ru/
+
+### picoCTF
+https://picoctf.org/
+
+### Command Challenge
+https://cmdchallenge.com/
+
+### Pwnable Games
+https://pwnable.kr/play.php
 
 # Free Security Training Resources
 
