@@ -190,3 +190,13 @@ https://www.exploit-db.com/
 
 ### 0day Today
 https://0day.today/
+
+# Leak Database
+
+### FOFA
+https://fofa.so/
+
+### PWNDB
+https://pwndb2am4tzkvold.onion.ws/
+
+http://pwndb2am4tzkvold.onion/ (TOR)
