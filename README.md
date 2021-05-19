@@ -187,3 +187,6 @@ https://packetstormsecurity.com/
 
 ### Exploit DB
 https://www.exploit-db.com/
+
+### 0day Today
+https://0day.today/
