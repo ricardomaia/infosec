@@ -215,3 +215,13 @@ https://retirejs.github.io/retire.js/
 
 ### Weppalyzer
 https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR
+
+### Hunte
+https://hunter.io/
+
+### ZoomEye
+https://www.zoomeye.org/
+
+### URLScan
+https://urlscan.io/search/
+
