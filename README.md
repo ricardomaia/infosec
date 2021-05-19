@@ -173,3 +173,12 @@ https://www.youtube.com/watch?v=v2_sZIfZkDQ
 
 ### The Visual Microphone: Passive Recovery of Sound from Video
 https://www.youtube.com/watch?v=FKXOucXB4a8
+
+# Exploit Database
+
+### Sploitus
+https://sploitus.com/
+
+### CXSecurity
+https://cxsecurity.com/
+https://cxsecurity.com/
