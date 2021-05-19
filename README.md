@@ -184,3 +184,6 @@ https://cxsecurity.com/
 
 ### Packet Storm
 https://packetstormsecurity.com/
+
+### Exploit DB
+https://www.exploit-db.com/
