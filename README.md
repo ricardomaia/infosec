@@ -191,7 +191,7 @@ https://www.exploit-db.com/
 ### 0day Today
 https://0day.today/
 
-# Leak Database
+# Leak Database & Information Gathering
 
 ### FOFA
 https://fofa.so/
@@ -203,3 +203,15 @@ http://pwndb2am4tzkvold.onion/ (TOR)
 
 ### LeakPeek
 https://leakpeek.com/
+
+### NerdyData
+https://www.nerdydata.com/
+
+### GrayNoise
+https://viz.greynoise.io/
+
+### Retire.js
+https://retirejs.github.io/retire.js/
+
+### Weppalyzer
+https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR
