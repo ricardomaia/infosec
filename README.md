@@ -181,4 +181,6 @@ https://sploitus.com/
 
 ### CXSecurity
 https://cxsecurity.com/
-https://cxsecurity.com/
+
+### Packet Storm
+https://packetstormsecurity.com/
